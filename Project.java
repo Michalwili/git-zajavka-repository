@@ -3,5 +3,10 @@ public class Project {
         System.out.println("Hello World GIT");
         String n = "hello";
         int a = 5;
+
+        System.out.println("lll");
+
+        int v = 555;
+
     }
 }
