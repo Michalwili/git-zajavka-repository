@@ -7,6 +7,7 @@ public class Project {
         System.out.println("lll");
 
         int v = 555;
+        char af = 'a';
 
     }
 }
