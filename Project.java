@@ -9,5 +9,7 @@ public class Project {
         int v = 555;
         char af = 'a';
 
+        boolean abc = true;
+
     }
 }
